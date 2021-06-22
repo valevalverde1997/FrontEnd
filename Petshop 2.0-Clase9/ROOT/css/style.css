@@ -1,0 +1,116 @@
+.arriba{
+    background-color: black;
+    color: white;
+    height: 20px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.selector, .opciones {
+    display:inline-block;
+}
+#logo{
+    height: 30px;
+}
+
+nav{
+    background-color: #f0a330;
+    height: 40px;
+}
+li img{
+    height: 18px;
+}
+#opcion{
+    font-weight: bold;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.banner{
+    background-image: url(../img/baner.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    align-content: flex-end;
+}
+.alinear{
+    padding-top: 10%;
+    padding-left: 70%;
+
+}
+.huella{
+    background-image: url(../img/klipartz.com.png);
+    width: 50px;
+    height: 50px;
+}
+article{
+    width: 200px;
+    height: 300px;
+    text-align: center;
+}
+.entrada{
+    border-radius: 10px; 
+    width: 200px;
+    height: 30px;
+    background-color: #301c0f;
+    color: white;
+}
+button.reset{
+    background-color: #646464;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+}
+button{
+    background-color: #f0a330;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+}
+.suscripcion{
+    font-weight: bold;
+    font-family: sans-serif;
+    color: white;
+    padding: 1%;
+}
+
+#price{
+    color: #f0a330;
+}
+footer{
+    background-color: #301c0f;
+    color: white;
+}
+.subs{
+    background-color: #f0a330;
+    display: inline-block;
+    height: 50px;
+    width: 100%;
+    padding-top: 1%;
+}
+.final{
+    width: 50px;
+    height: 50px;
+}
+.tel{
+    border-radius: 10px; 
+    width: 200px;
+    height: 30px;
+    background-color: white;
+}
+.ultimo{
+    background-color: #f0a330;
+    height: 20px;
+}
+
+.log{
+    padding-left: 70%;
+    height: 30px;
+}
+
